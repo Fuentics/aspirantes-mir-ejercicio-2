@@ -3,9 +3,10 @@
 2. Julian Martinez
 3. Sandra Vega
 4. Edelsy Carreño
-6. Sandra Lucia Fong
-7. Camilo Andres Garcia Cruz
-8. Carlos Andres Franco Roldan
-9. Jose Manuel Villareal de Castro 
-10. Guillermo Alexander Herrera
-11. Andrés Fuentes 
+5. Sandra Lucia Fong
+6. Camilo Andres Garcia Cruz
+7. Carlos Andres Franco Roldan
+8. Jose Manuel Villareal de Castro 
+9. Guillermo Alexander Herrera
+10. Andrés Fuentes
+11. Sandra Beltrán
