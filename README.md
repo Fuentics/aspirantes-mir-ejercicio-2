@@ -8,5 +8,4 @@
 7. Carlos Andres Franco Roldan
 8. Jose Manuel Villareal de Castro 
 9. Guillermo Alexander Herrera
-10. Andrés Fuentes
-11. Sandra Beltrán
+
